@@ -27,4 +27,4 @@ Este projeto foi desenvolvido como parte dos meus estudos em **front-end**, com 
 
 ---
 
-[![Ver site](https://img.shields.io/badge/Ver%20projeto-Online-007ec6?style=for-the-badge&logo=github)](https://seu-usuario.github.io/quiz-para-programadores/)
+[![Ver site](https://img.shields.io/badge/Ver%20projeto-Online-007ec6?style=for-the-badge&logo=github)](https://livianalanda.github.io/quiz-para-programadores/)
